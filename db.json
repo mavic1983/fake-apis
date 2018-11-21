@@ -1,8 +1,8 @@
 {
 	"polizas": [{
-		"numero": "67890",
-		"vigencia": "json-server",
-		"estatus": "typicode",
+		"numero": "1234567890",
+		"vigencia": "2020-04-21T23:59:00-06:00",
+		"estatus": "Activa",
 		"coberturas": ["Amplia Plus",
 		"Responabilidad Civil"]
 	}],
