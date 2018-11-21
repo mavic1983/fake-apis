@@ -6,7 +6,7 @@
 		"coberturas": ["Amplia Plus",
 		"Responabilidad Civil"]
 	}],
-	"reporte": [{
+	"reportes": [{
 		"id": 123456,
 		"siniestro": "9872345-AS32"
 	}]
