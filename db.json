@@ -1,13 +1,13 @@
 {
-	"polizas": [{
+	"polizas": {
 		"numero": "1234567890",
 		"vigencia": "2020-04-21T23:59:00-06:00",
 		"estatus": "Activa",
 		"coberturas": ["Amplia Plus",
 		"Responabilidad Civil"]
-	}],
-	"reportes": [{
+	},
+	"reportes": {
 		"id": 123456,
 		"siniestro": "9872345-AS32"
-	}]
+	}
 }
